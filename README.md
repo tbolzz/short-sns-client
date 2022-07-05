@@ -1,1 +1,1 @@
-# short-sns-ios
+# short-sns-client
