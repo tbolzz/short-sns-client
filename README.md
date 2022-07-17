@@ -20,6 +20,9 @@
 1. Install [`Android Studio`](https://developer.android.com/studio).
 2. Add new [`hardware - Galaxy Note 20`](https://ddolcat.tistory.com/941) from [`Galaxy_Note20`](./Galaxy_Note20/).
 3. Run android emulator with Device manager.
-4. Run flutter.
+4. Press `Run main.dart` button.
 5. If the INSTALL_FAILED_INSUPERATIVE_STORAGE error occurs, refer to [`this page`](https://jvvp.tistory.com/1122).<br>
 In my case, set VM heap 256MB and Internal Storage 2048MB.
+
+## flutter reference page
+Refer to [`google docs`](https://docs.google.com/document/d/1Q39rUWKAq7w7csO0kOEqziuUi9_nw7jxYdMkc3nzeSA/edit)
